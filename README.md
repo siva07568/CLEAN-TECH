@@ -1,1 +1,2 @@
-# CLEAN-TECH
+# CleanTech
+Transforming Waste Management With Transfer Learning
